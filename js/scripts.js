@@ -29,5 +29,6 @@ var numbA=parseInt(prompt('Enter a number:'));
 var numbB=parseInt(prompt('Another number:'));
 var result=divide(numbA, numbB);
 alert(result);
+//writing code is fun.the end
 
 
