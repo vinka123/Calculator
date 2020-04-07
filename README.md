@@ -1,5 +1,5 @@
 # Kalculator
-My name is Victor Ngowa.
+My name is Vinka Vky.
 I love coding.
 Software Development student
 Moringa School
